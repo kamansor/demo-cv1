@@ -41,9 +41,9 @@ Lecture
 
 ## CONTACT  
 
-ADDRESS:  
+**ADDRESS:**  
   No 3, Lorong Syed Sheh, Kampung Jerai, 09200 Kupang, Baling Kedah.  
-PHONE:  
+**PHONE:**  
   011-36010237  
-EMAIL:  
-  syafiqahahmad9798@gmail.com\
+**EMAIL:**  
+  syafiqahahmad9798@gmail.com
