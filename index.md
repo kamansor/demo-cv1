@@ -27,11 +27,11 @@ October 2019 - Now
 
 ## CURRICULUM ACTIVITIES  
 College Representative Committee  
-- Sports Exco  
+  - Sports Exco  
 MyAgrosis Club  
-- President  
+  - President  
 Bafin Club  
-- Academic Exco  
+  - Academic Exco  
 
 ## REFERENCE  
 Najah Binti Mokhtar  
