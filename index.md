@@ -38,3 +38,12 @@ Bafin Club
 Najah Binti Mokhtar  
 Lecture  
 012-5197804  
+
+## CONTACT  
+
+ADDRESS:  
+  No 3, Lorong Syed Sheh, Kampung Jerai, 09200 Kupang, Baling Kedah.  
+PHONE:  
+  011-36010237  
+EMAIL:  
+  syafiqahahmad9798@gmail.com\
