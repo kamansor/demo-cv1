@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kamansor/demo-cv1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## OBJECTIVE  
+An ambitious individual who enjoy taking responsibility and have strong interpersonal skills. Passion for learning and strong desire make the change to a more satisfying and fulfilling career. Someone who enjoys spending times with people and who is constantly looking for opportunities to build relationships with them. Now looking for a suitable position with a company.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EDUCATION  
+Bachelor of Finance  
+Universiti Teknologi Mara  
+March 2019 – Now  
+(3.71)  
 
-### Markdown
+Diploma in Banking Studies  
+Universiti Teknologi Mara  
+Mei 2016 - Jan 2019  
+(3.55)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## WORK EXPERIENCE  
+Online Business  
+October 2019 - Now  
 
-```markdown
-Syntax highlighted code block
+## SKILLS  
+ Interpersonal skills  
+ Time management and organizational skills  
+ Communication skill  
+ Leadership skill  
+ Software skills  
+ Microsoft Office (MS Words, PowerPoint, Excel)  
 
-# Header 1
-## Header 2
-### Header 3
+## CURRICULUM ACTIVITIES  
+College Representative Committee  
+- Sports Exco  
+MyAgrosis Club  
+- President  
+Bafin Club  
+- Academic Exco  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kamansor/demo-cv1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## REFERENCE  
+Najah Binti Mokhtar  
+Lecture  
+012-5197804  
